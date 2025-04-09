@@ -3,6 +3,7 @@
     --elements-default-white: white;
     --bg-button-default: #C07212;
     --bg-default-white-100: #F9F9F9;
+    --bg-button-hover: #975300;
 }
 
 *{
@@ -138,6 +139,14 @@ html {
     color: var(--bg-default-white-100);
 }
 
+button:hover {
+    cursor: pointer;
+    background-color: var(--bg-button-hover);
+    transform: translateY(-5px);
+    box-shadow: 0px 15px 20px rgba(24, 24, 24, 0.904);
+    transition-duration: 0.2s;
+}
+
 input {
     width: 508px;
     height: 72px;
@@ -146,6 +155,8 @@ input {
     border: 0px;
     margin-bottom: 62px;
     background-color: var(--bg-default-white-100);
+    font-size: 24px;
+    line-height: 30px;
 }
 
 ::placeholder {
