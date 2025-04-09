@@ -119,13 +119,14 @@ html {
     max-width: 500px;
     margin-bottom: 20px;
     margin-top: 48px;
+    align-items: center;
 }
 
 .contact-section h1 {
     margin-bottom: 48px;
 }
 
-.contact-section button {
+.contact-section form button {
     width: 286px;
     height: 74px;
     border: 0px;
