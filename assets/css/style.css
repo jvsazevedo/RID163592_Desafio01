@@ -70,8 +70,10 @@ html {
     margin-top: 82px;
     display: flex;
     gap: 64px;
-    padding: 18px;
+    padding-top: 88px;
     padding-bottom: 92px;
+    padding-right: 54px;
+    padding-left: 77px;
 }
 
 .about-text {
