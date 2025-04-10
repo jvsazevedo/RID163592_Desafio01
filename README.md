@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto de estudos proposto pela escola DNC para o desenvolvimento de uma landing page.
 
-Para armazenamento da das informações enviadas pelo formulário, foi integrado a comunicação com a api do SheetMonkey com um plano gratuito.
+Para armazenamento das informações enviadas pelo formulário, foi integrado a comunicação com a api do SheetMonkey com um plano gratuito.
 
 Para esse projeto a permissão de submissão foi limitada para ser executada somente a partir do domínio disponibilizado pela Netlify, para prevenir envios não autorizados por outros locais.
 
